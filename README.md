@@ -1,0 +1,1 @@
+# AdminPannel-non-responsive
